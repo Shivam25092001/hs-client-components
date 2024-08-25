@@ -1,5 +1,5 @@
 {
-  "name": "react-native-lib-1",
+  "name": "@shivam25092001/react-native-lib-1",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -147,5 +147,6 @@
         }
       ]
     ]
-  }
+  },
+  "gitHead": "cb061eeb5eef918c3bced2cf68b4637d026c4ea0"
 }
