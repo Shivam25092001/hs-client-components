@@ -43,7 +43,8 @@
   },
   "homepage": "https://github.com/Shivam25092001/react-native-lib-2#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.7",
@@ -147,5 +148,6 @@
         }
       ]
     ]
-  }
+  },
+  "gitHead": "e7314d26a3642818a4625079b5414886362f180a"
 }

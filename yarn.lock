@@ -2476,6 +2476,14 @@
     conventional-recommended-bump "^6.1.0"
     semver "7.3.8"
 
+"@shivam25092001/react-native-lib-1@file:/Users/shivam.nan/Desktop/code/juspay/pipeline/hs-client-components/packages/react-native-lib-1":
+  version "0.1.1"
+  resolved "file:packages/react-native-lib-1"
+
+"@shivam25092001/react-native-lib-2@file:/Users/shivam.nan/Desktop/code/juspay/pipeline/hs-client-components/packages/react-native-lib-2":
+  version "0.0.2"
+  resolved "file:packages/react-native-lib-2"
+
 "@sideway/address@^4.1.5":
   version "4.1.5"
   resolved "https://registry.npmjs.org/@sideway/address/-/address-4.1.5.tgz"
@@ -10572,14 +10580,6 @@ react-native-gradle-plugin@^0.0.6:
   version "0.0.6"
   resolved "https://registry.npmjs.org/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz"
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
-
-"react-native-lib-1@file:/Users/shivam.nan/Desktop/code/juspay/pipeline/hs-client-components/packages/react-native-lib-1":
-  version "0.1.0"
-  resolved "file:packages/react-native-lib-1"
-
-"react-native-lib-2@file:/Users/shivam.nan/Desktop/code/juspay/pipeline/hs-client-components/packages/react-native-lib-2":
-  version "0.0.1"
-  resolved "file:packages/react-native-lib-2"
 
 react-native@*, react-native@0.68.2:
   version "0.68.2"
