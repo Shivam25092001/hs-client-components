@@ -16,5 +16,6 @@ const Lib1 = NativeModules.Lib1  ? NativeModules.Lib1  : new Proxy(
     );
 
 export function multiply(a: number, b: number): Promise<number> {
+  console.log("Result from Lib1: ", Lib1.multiply(a, b));
   return Lib1.multiply(a, b);
 }
