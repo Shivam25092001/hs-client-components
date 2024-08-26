@@ -1,6 +1,6 @@
 {
   "name": "@shivam25092001/react-native-lib-1",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
