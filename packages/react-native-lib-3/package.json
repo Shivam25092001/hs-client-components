@@ -1,6 +1,6 @@
 {
   "name": "@shivam25092001/react-native-lib-3",
-  "version": "0.3.0",
+  "version": "0.2.0",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -43,7 +43,8 @@
   },
   "homepage": "https://github.com/Shivam25092001/react-native-lib-3#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.7",
@@ -147,5 +148,6 @@
         }
       ]
     ]
-  }
+  },
+  "gitHead": "e44a62a1c755984933e84c90daba38721e2cfb64"
 }
