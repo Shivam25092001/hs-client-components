@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Some Text</Text>
+      <Text>Some Changed Text</Text>
       <Text>Result from lib-1: {result}</Text>
     </View>
   );
