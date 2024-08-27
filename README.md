@@ -1,0 +1,1 @@
+Refer this doc -> [Automating versioning & publishing of `react-native packages` for `hs-client-core`](https://docs.google.com/document/d/1L7EWeNvI8jKAzt93PvnLk9cTJA1H8UiS2C74aKeKkWQ/edit?usp=sharing) 
